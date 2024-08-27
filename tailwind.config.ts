@@ -1,3 +1,5 @@
+import { Content } from "next/font/google";
+import { plugin } from "postcss";
 import type { Config } from "tailwindcss";
 
 const config: Config = {
